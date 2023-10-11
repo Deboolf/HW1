@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuyi_iipb22_2_Altunin_ME_Bowling</RootNamespace>
     <AssemblyName>Tyuyi_iipb22-2_Altunin_ME_Bowling</AssemblyName>
-    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
