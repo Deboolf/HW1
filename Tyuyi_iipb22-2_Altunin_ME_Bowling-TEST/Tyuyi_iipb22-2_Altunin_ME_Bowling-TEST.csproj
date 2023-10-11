@@ -55,6 +55,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling.csproj">
+      <Project>{b09febbe-40d6-400a-a650-a7bf3be5ec3b}</Project>
+      <Name>Tyuyi_iipb22-2_Altunin_ME_Bowling</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
