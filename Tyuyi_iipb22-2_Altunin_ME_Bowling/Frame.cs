@@ -16,19 +16,6 @@ namespace Tyuyi_iipb22_2_Altunin_ME_Bowling
         {
             this.tScore = tScore;
         }
-        public int[] Score(Throw att1, Throw att2) 
-        {
-            tScore[0] = Convert.ToInt32(att1);
-            if (tScore[0] == 10) 
-            {
-                return tScore;
-            }
-            else
-            {
-                tScore[1] = Convert.ToInt32(att2);
-                return tScore;
-            }   
-        }
         public int[] ThrowScore
         {
             get
@@ -37,7 +24,17 @@ namespace Tyuyi_iipb22_2_Altunin_ME_Bowling
             }
             set
             {
-                this.tScore = value ;
+                tScore[0] = Convert.ToInt32(value[0]);
+                if (tScore[0] == 10)
+                {
+                    tScore[0] = value[0];
+                    tScore[1] = 0;
+                }
+                else
+                {
+                    tScore[1] = Convert.ToInt32(value[2]);
+                    this.tScore[1] = value[1];
+                }
             }
         }
     }
