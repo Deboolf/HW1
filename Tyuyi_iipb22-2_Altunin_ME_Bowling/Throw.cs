@@ -11,7 +11,10 @@ namespace Tyuyi_iipb22_2_Altunin_ME_Bowling
     {
         private int score;
         public Throw(int score)
-        { this.score = score; }
+        { 
+            this.score = score;
+            if (score > 10) { throw new ArgumentOutOfRangeException(nameof(score), "Amount of points must be equal or less than 10"); }
+        }
         public int Score
         {
             get

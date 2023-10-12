@@ -6,3 +6,11 @@ C:\Users\Максим\source\repos\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb2
 C:\Users\Максим\source\repos\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.csproj.CoreCompileInputs.cache
 C:\Users\Максим\source\repos\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.exe
 C:\Users\Максим\source\repos\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.pdb
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\bin\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.exe.config
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\bin\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.exe
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\bin\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.pdb
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.exe
+C:\Users\Максим\source\repos\HW1\Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling\obj\Debug\Tyuyi_iipb22-2_Altunin_ME_Bowling.pdb

@@ -8,11 +8,6 @@ namespace Tyuyi_iipb22_2_Altunin_ME_Bowling
 {
     internal class Program
     {
-/*        internal int DoAThrow(int input) 
-        {
-
-        }
-*/
         static void Main(string[] args)
         {
             int[] frame = new int[2];

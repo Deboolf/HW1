@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuyi_iipb22-2_Altunin_ME_Bowling", "Tyuyi_iipb22-2_Altunin_ME_Bowling\Tyuyi_iipb22-2_Altunin_ME_Bowling.csproj", "{B09FEBBE-40D6-400A-A650-A7BF3BE5EC3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuyi_iipb22-2_Altunin_ME_Bowling-TESTs", "Tyuyi_iipb22-2_Altunin_ME_Bowling-TESTs\Tyuyi_iipb22-2_Altunin_ME_Bowling-TESTs.csproj", "{4001157A-2E64-4D0B-9B97-B1A626E9135A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuyi_iipb22-2_Altunin_ME_Bowling-TEST", "Tyuyi_iipb22-2_Altunin_ME_Bowling-TEST\Tyuyi_iipb22-2_Altunin_ME_Bowling-TEST.csproj", "{EA8DCC20-6D3F-4AEC-81B8-70215F849A1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B09FEBBE-40D6-400A-A650-A7BF3BE5EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B09FEBBE-40D6-400A-A650-A7BF3BE5EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B09FEBBE-40D6-400A-A650-A7BF3BE5EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4001157A-2E64-4D0B-9B97-B1A626E9135A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4001157A-2E64-4D0B-9B97-B1A626E9135A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4001157A-2E64-4D0B-9B97-B1A626E9135A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4001157A-2E64-4D0B-9B97-B1A626E9135A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8DCC20-6D3F-4AEC-81B8-70215F849A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8DCC20-6D3F-4AEC-81B8-70215F849A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8DCC20-6D3F-4AEC-81B8-70215F849A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8DCC20-6D3F-4AEC-81B8-70215F849A1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
